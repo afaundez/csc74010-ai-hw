@@ -1,4 +1,4 @@
-# csc74010-ai-hw
+# CSC74010 Artificial Intelligence Homework
 
 ## Requirements
 
@@ -6,7 +6,8 @@
 - pip
 
 Run:
-```
+
+```sh
 pip install -r requirements.txt
 ```
 
@@ -19,7 +20,8 @@ python bfs.py
 ```
 
 Output:
-```
+
+```python
   +---------------+
 8 | . . . . . . . |
 7 | . . . . . . . |
